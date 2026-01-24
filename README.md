@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cont-edu.technion.ac.il/wp-content/uploads/2024/07/smallpicAI-156x156.jpg" alt="Logo" width="120" height="120">
-</p>
-
 <h1 align="center">TechFlow AI Recruiter</h1>
 
 <p align="center">
