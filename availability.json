@@ -1,0 +1,74 @@
+[
+    {
+        "date": "2026-01-27",
+        "time": "09:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-27",
+        "time": "10:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-27",
+        "time": "14:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-28",
+        "time": "09:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-28",
+        "time": "11:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-28",
+        "time": "15:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-29",
+        "time": "10:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-29",
+        "time": "14:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-30",
+        "time": "09:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-30",
+        "time": "11:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-30",
+        "time": "16:00",
+        "position": "Python Dev",
+        "available": true
+    },
+    {
+        "date": "2026-01-31",
+        "time": "10:00",
+        "position": "Python Dev",
+        "available": true
+    }
+]

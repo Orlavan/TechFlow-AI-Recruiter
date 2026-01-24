@@ -1,0 +1,53 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables (IMPORTANT: never commit!)
+.env
+.env.local
+.env.*.local
+
+# Database files
+*.db
+recruitment.db
+tech.db
+
+# ChromaDB / Vector Store
+chroma_db/
+
+# Fine-tuning data
+fine_tuning_data/
+*.jsonl
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Test outputs
+evaluation_results.csv
+confusion_matrix.png
+label_distribution.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Distribution
+dist/
+build/
+*.egg-info/

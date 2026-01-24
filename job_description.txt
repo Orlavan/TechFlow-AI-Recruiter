@@ -1,0 +1,29 @@
+Job Title: Senior Python Developer
+Location: Tel Aviv (Hybrid)
+Department: Engineering
+
+About Us:
+TechFlow Solutions is a leading innovator in cloud computing and data analytics. We are looking for a passionate Python Developer to join our growing team and help build the next generation of our platform.
+
+Key Responsibilities:
+- Design, build, and maintain efficient, reusable, and reliable Python code.
+- Develop backend services using frameworks like FastAPI or Django.
+- Integrate data storage solutions (SQL, NoSQL, Redis).
+- Collaborate with frontend developers to integrate user-facing elements.
+- Ensure the best possible performance, quality, and responsiveness of applications.
+- Identify bottlenecks and bugs, and devise solutions to these problems.
+
+Requirements:
+- 3+ years of professional experience in Python development.
+- Strong understanding of object-oriented programming.
+- Experience with web frameworks such as Django, Flask, or FastAPI.
+- Familiarity with cloud services (AWS, Google Cloud).
+- Experience with Docker and containerization.
+- Proficient in SQL and database design.
+- Familiarity with RESTful APIs and Git version control.
+- B.Sc. in Computer Science or equivalent experience.
+
+Nice to Have:
+- Experience with machine learning libraries (Pandas, NumPy, Scikit-learn).
+- Knowledge of React or other frontend frameworks.
+- Contribution to open-source projects.
