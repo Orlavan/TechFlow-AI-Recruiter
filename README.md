@@ -231,6 +231,7 @@ Open `tests/test_evals.ipynb` in Jupyter and run all cells to generate:
 ## Contact
 
 Or Lavan - [orlavanbs@gmail.com](mailto:orlavanbs@gmail.com)
+Team member - Kesem  Eden Weinfeld 
 
 Project Link: [https://github.com/Orlavan/TechFlow-AI-Recruiter](https://github.com/Orlavan/TechFlow-AI-Recruiter)
 
